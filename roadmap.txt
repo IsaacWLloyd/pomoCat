@@ -1,0 +1,23 @@
+TODO
+
+-git upload. Create a git repo and commit original code base
+-git refactor - write out a good README and comment code better
+-Docker - create a docker image to develop in
+-ensure compatibility for windows mac and linux terminal
+-features - TODO list accountability and scoringx 
+-gui - create a gui interface that allows for easier interaction
+-extended feature set - graph views, 
+ scaling score relative to past performance and more
+-game integration - create a simple game that allows you to use your score for fun
+-web integration - port the entire app to the web
+-online scoreboards and sharing - socialize the app via scoreboards and sharable bits
+-???
+
+
+COMPLETED
++basic code written in OOP to allow for future additions, 
+ includes command line interaction with the Pomodoros and a
+ scoreboard text file to keep track of daily scores
+
+
+*This is only a rough idea, can and should change in the future

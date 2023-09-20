@@ -1,0 +1,25 @@
+You can select menu options by inputting numbers.
+
+The main functionality is the pomodoro option that allows
+you to set focus and break timers. After you finish a timer or
+exit early you will be asked to rate your focus level.
+Depending on wether you completed the entire focus time
+and your level of focus you will gain points for each focus block completed.
+
+
+the idea for how to use this tool is based on the concepts within the following video
+
+https://www.youtube.com/watch?v=qtoysJSQTn8
+
+basically you should start a work session with a short focus timer to make it less intimidating.
+Then take a break. Your subsiquent timers should get longer and longer depending on focus level.
+when you start to feel that you are in a flow state choose the extend option after a focus timer
+and keep flowing!
+On the other hand when you start to feel burnt out choose a 20 minute break instead of a 5 and go
+do something fun that wont tax your brain
+
+The scoring feature allows you to track your focus over time. The scaling factors are not yet 
+optimized and can be adjusted within the settings.py file.
+
+
+*This is obviously not a polished app and all feedback and suggestions would be appreciated! You can email me at isaacwlloyd@gmail.com
